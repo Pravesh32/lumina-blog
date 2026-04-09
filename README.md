@@ -2,7 +2,8 @@
 
 A sleek, multi-user blog application built entirely with **vanilla HTML, CSS, and JavaScript**. Features client-side authentication, dark mode, real-time search, likes, post editing, and persistent storage using `localStorage`.
 
-![Preview](https://via.placeholder.com/800x400?text=Lumina+Blog+Preview) *(Replace with a screenshot of your app)*
+<img width="1909" height="874" alt="image" src="https://github.com/user-attachments/assets/f033718e-8b1b-4a7e-aa7c-392c2d08788c" />
+
 
 ## ✨ Features
 - 🔐 **Multi-User Auth** – Register, login, and switch accounts seamlessly
